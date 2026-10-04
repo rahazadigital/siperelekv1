@@ -1,0 +1,8 @@
+{
+  "name": "SiPerelek Multi-RT & RW",
+  "description": "Aplikasi Manajemen & Transparansi Keuangan Warga Multi-RT dengan Monitoring Pengawasan 1 RW secara Real-Time berbasis Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

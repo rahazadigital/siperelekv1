@@ -1,0 +1,6 @@
+{
+  "summary":  "Rencana implementasi arsitektur WebApp PWA Kelola Keuangan Warga Multi-RT & Monitoring RW dengan integrasi Google Sheets/GAS, Express Proxy, Role-Based Access Control (Admin, RW, Bendahara RT, Warga dengan PIN 6-digit per RT), dan visual modern mobile-first.",
+  "updatedAt":  "2026-10-04T06:01:25.607221372Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
